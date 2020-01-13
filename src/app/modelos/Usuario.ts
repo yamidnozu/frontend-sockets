@@ -1,3 +1,3 @@
 export interface Usuario {
-  nombre: string;
+    nombre: string;
 }
